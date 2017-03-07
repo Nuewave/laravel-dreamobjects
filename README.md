@@ -1,5 +1,6 @@
-# arleslie\DreamObjects
-Client for DreamObjects to work with AWS S3 API (for Laravel)
+# joexanderson\DreamObjects
+Laravel Client for DreamObjects to work with Amazon S3 API.
+Forked from arleslie\DreamObjects
 
 # Installation
 `composer require arleslie/dreamobjects-client`
