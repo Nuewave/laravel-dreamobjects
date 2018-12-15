@@ -1,4 +1,7 @@
-# joexanderson\DreamObjects
+## NOTE
+This project is now depreciated as Upper Altitude Digital Services is no longer powered by DreamCompute.
+
+# UpperAltitude\DreamObjects
 Laravel Client for DreamObjects to work with Amazon S3 API.
 Forked from arleslie\DreamObjects
 
